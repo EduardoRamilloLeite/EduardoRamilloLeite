@@ -7,7 +7,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoRamilloLeite&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/EduardoRamilloLeite">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoRamilloLeite&layout=compact&card_width=420&theme=dark&langs_count=10" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoRamilloLeite&layout=compact&card_width=320&theme=dark&langs_count=10" />
   </a>
 </div>
 
